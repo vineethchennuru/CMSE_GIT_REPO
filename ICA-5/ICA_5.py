@@ -4,7 +4,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('data.csv')
+df = pd.read_csv('https://github.com/vineethchennuru/CMSE_GIT_REPO/blob/main/ICA-5/data.csv')
 
 # Dropping Id as it is not of any use
 
